@@ -16,7 +16,7 @@ List of used tools:
 4.	IQ-TREE multicore (Version:  1.6.12)
 5.	FastQC (Version: 0.11.9; Requirements: A suitable Java Runtime Environments);
 6.	SAMtools. (Version: 1.11 (using htslib 1.11));
-7.	SPAdes genome assembler (Version: 3.14.1).
+7.	SPAdes genome assembler (Version: 3.14.1 Requirements: 64-bit Linux system, 16 GB RAM, 50 GB free disc space).
 8.	Quast (Version: 5.1.0rc1, e010ca46, Requirements: Linux (64-bit and 32-bit with slightly limited functionality) and macOS are supported; For the main pipeline: Python2 (2.5 or higher) or Python3 (3.3 or higher),  Perl 5.6.0 or higher, GCC 4.7 or higher, GNU make and ar, zlib development files; For the optional submodules: Time::HiRes perl module for GeneMark-ES (needed when using --gene-finding --eukaryote), Java 1.8 or later for GRIDSS (needed for SV detection) , R for GRIDSS (needed for SV detection))
 9.  trimmomatic (Version: 0.39)
 
